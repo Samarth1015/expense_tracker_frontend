@@ -36,6 +36,7 @@ This document describes the deployment and technology stack of the Expense Track
 - All sensitive configuration is managed via environment variables and Kubernetes secrets.
 - For more details, refer to the Dockerfile and configuration files in this directory.
 
-image.png
-image.png
-image.png
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd4cdaf8-41bf-442c-8d23-658a73571ccd" />
+<img width="1907" height="1069" alt="image" src="https://github.com/user-attachments/assets/c57e453f-f535-44e4-998d-add5bf724950" />
+<img width="1843" height="936" alt="image" src="https://github.com/user-attachments/assets/42b2b997-2ffe-4cfd-9fc5-78cecb72710e" />
